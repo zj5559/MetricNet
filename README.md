@@ -2,16 +2,16 @@
 Online Filtering Training Samples for Robust Visual Tracking (ACM MM2020)
 
 ## Requirments 
-python 3.7
-pytorch
-ubuntu 16.04 + cuda-9.0
+python 3.7  
+pytorch  
+ubuntu 16.04 + cuda-9.0  
 
 ## Installation
-#### Install dependencies
+The pretrained models are also downloaded.
 ```bash
 bash install.sh conda_install_path metricnet
 ```  
-#### Download models
+
 
 
 ## Train
