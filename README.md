@@ -3,6 +3,7 @@ Online Filtering Training Samples for Robust Visual Tracking (ACM MM2020)
 
 ## Results
 | OTB2015 | Success | Precision |
+|:------- |:----------------:|:----------------:|
 | MDNet           | 0.671 | 0.904|
 | MDNet+MetricNet | 0.681 | 0.910 |
 | ECO           | 0.666 | 0.903|
