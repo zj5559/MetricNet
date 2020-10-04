@@ -3,6 +3,7 @@ Online Filtering Training Samples for Robust Visual Tracking (ACM MM2020)
 
 ## Paper link
 - [Baidu Yun](https://pan.baidu.com/s/1biy5UuKqhe4VP-kUaD-LlA)   提取码：pitf
+- [Google Drive](https://drive.google.com/file/d/1Pwj0OQbmoRjp13V8qpV7BkHTKyJ_RCZr/view?usp=sharing)
 
 ## Results
 | OTB2015 | Success | Precision |
